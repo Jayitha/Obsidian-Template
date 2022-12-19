@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "36ab5ae9563cfb70",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8310f90823c00b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5582d4cad349c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examples/Text and Typography.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4e95e127f7caa16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bdbdf475517e9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab24a1bf7884ce64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b297b892d7d6b4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#demonstration",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba717ebb38d76b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f18875a114327e8b",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336
+  },
+  "right": {
+    "id": "27476bb830b20702",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fd6a1c7a9291a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947e00a397461c9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Examples/Text and Typography.md"
+              }
+            }
+          },
+          {
+            "id": "4b7fed80dbacb29c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "345f44f03f2e1e0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Examples/Text and Typography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8420abdce3ae7de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb414dadbf44917d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d55de6144c157200",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "f462ee544b5a1216",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Examples/Text and Typography.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d30e8c586013fcae",
+            "type": "leaf",
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1e20b8ee7d12af60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df8c566e23927f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8345860bf8989db",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbd682f756239f88",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5453872053a20332",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "active": "b5582d4cad349c2b",
+  "lastOpenFiles": [
+    "README.md",
+    "Examples/Text and Typography.md",
+    "Literature Notes/@al2011efficient.md",
+    "Literature Notes/@afrati2011optimizing.md",
+    "@afrati2011optimizing.md",
+    "Planners/Daily Planners/2022-12-20.md",
+    "2022-12-20.md",
+    "Planners/Daily Planners/2022-12-19.md",
+    "Planners/Daily Planners/2022-12-18.md",
+    "Examples/Annotation Example.md"
+  ]
+}

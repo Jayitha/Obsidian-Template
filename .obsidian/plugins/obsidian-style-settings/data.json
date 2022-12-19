@@ -1,0 +1,9 @@
+{
+  "id@@colorblind_protan-deutan": true,
+  "id@@colorblind_tritan": false,
+  "things-style@@mobile-black-background": true,
+  "things-style@@active-line": true,
+  "things-style@@default-font-color": true,
+  "minimal-style@@borders-none": true,
+  "minimal-style@@dark-mode-style": "minimal-dark-black"
+}
