@@ -11,11 +11,10 @@
             "id": "b5582d4cad349c2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Examples/Text and Typography.md",
-                "mode": "preview",
-                "source": true
+                "file": "Planners/Daily Planners/2022-12-19.md",
+                "staged": false
               }
             }
           }
@@ -92,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Examples/Text and Typography.md"
-              }
+              "state": {}
             }
           },
           {
@@ -114,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples/Text and Typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examples/Text and Typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,8 +212,8 @@
   },
   "active": "b5582d4cad349c2b",
   "lastOpenFiles": [
-    "README.md",
     "Examples/Text and Typography.md",
+    "README.md",
     "Literature Notes/@al2011efficient.md",
     "Literature Notes/@afrati2011optimizing.md",
     "@afrati2011optimizing.md",
