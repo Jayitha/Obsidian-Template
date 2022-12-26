@@ -1,9 +1,9 @@
 {
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "Literature Notes",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\nurl: \"{{URL}}\"\n---\n\n```button\nname PDF\ntype link\naction {{URL}}\ncolor default\n```\n\n",
+  "literatureNoteFolder": "Literature/Notes",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nauthors: {{authorString}}\nyear: {{year}}\nurl: \"{{URL}}\"\nannotations: \"[[{{citekey}}]]\"\ntags: [reading]\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
-  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "alternativeMarkdownCitationTemplate": "",
   "citationExportPath": "./references.bib"
 }

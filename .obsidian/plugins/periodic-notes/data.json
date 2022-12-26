@@ -5,31 +5,31 @@
   "daily": {
     "format": "",
     "template": "",
-    "folder": "Planners/Daily Planners",
+    "folder": "Daily Notes",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
     "folder": "Planners/Weekly Planners",
-    "enabled": true
+    "enabled": false
   },
   "monthly": {
     "format": "",
     "template": "",
     "folder": "Planners/Monthly Planners",
-    "enabled": true
+    "enabled": false
   },
   "quarterly": {
     "format": "",
     "template": "",
     "folder": "Planners/Quarterly Planners",
-    "enabled": true
+    "enabled": false
   },
   "yearly": {
     "format": "",
     "template": "",
     "folder": "Planners/Yearly Planners",
-    "enabled": true
+    "enabled": false
   }
 }

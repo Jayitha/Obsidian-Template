@@ -5094,12 +5094,12 @@ div.nav-folder-title-content:hover {
   background-color: var(--scrollbar-bg);
 }
 
-.markdown-preview-view td:nth-child(odd),
+/*.markdown-preview-view td:nth-child(odd),
 .markdown-preview-view tr:nth-child(even) {
   background-color: var(--background-modifier-form-field);
   border: 0;
   border-bottom: 1px solid var(--background-primary);
-}
+}*/
 
 /* ______________________________ */
 
