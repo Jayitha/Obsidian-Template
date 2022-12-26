@@ -6,6 +6,19 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2022-12-20T18:48:02.354Z",
+      "total": 0,
+      "drafts": {
+        "Examples/Longform Example Project/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Scene 1": 0,
+            "Scene 2": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2022-12-19T21:02:21.571Z",
       "total": 0,
       "drafts": {
